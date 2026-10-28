@@ -2,10 +2,6 @@
 
 An AI-powered SQL assistant built with Python and Streamlit that helps users generate SQL queries from natural language, execute queries, understand SQL concepts, and explore database results.
 
-## 🚀 Live Demo
-
-**Try QueryIQ here:** [Open Live App] :https://queryiq-ai-sql-copilot-q7fr5j4vxtj2nu5kas8okh.streamlit.app/
-
 ## 📌 Project Overview
 
 QueryIQ is an AI-powered application designed to simplify SQL querying and database exploration. It uses a Large Language Model (LLM) to convert natural-language questions into SQL queries and help users understand query logic and results.
